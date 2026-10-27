@@ -1,0 +1,13 @@
+# Build output
+target/
+
+# H2 database files (contain user data)
+data/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Claude Code local files
+.claude/
